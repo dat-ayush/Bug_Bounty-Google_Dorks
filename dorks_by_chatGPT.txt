@@ -1,0 +1,22 @@
+"bug bounty program"
+"responsible disclosure program"
+"submit vulnerability" "security researchers"
+"bug bounty" "report a vulnerability"
+"vulnerability disclosure" "submit a report"
+inurl:security
+"vulnerability disclosure" inurl:security
+"report vulnerability" inurl:security
+inurl:bug-bounty
+"security@*"
+"security-contact@*"
+"vulnerability@*"
+"bugbounty@*"
+"report vulnerability"
+"reported vulnerability"
+"we found a vulnerability"
+"disclosure report" "bug bounty"
+"vulnerability disclosure"
+"company name" "security vulnerability"
+"top companies with bug bounty programs"
+"companies with bug bounty programs"
+"bug bounty program list"
